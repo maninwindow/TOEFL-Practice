@@ -13,7 +13,6 @@
 ===============
 
 > **Stretch**
-
 > *noun*
 > - an act of stretching one's limbs or body.
 I got up and had a stretch
