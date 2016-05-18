@@ -17,9 +17,9 @@
 > *noun*
 > - an act of stretching one's limbs or body.
 I got up and had a stretch
-synonyms: reach out, hold out, extend, outstretch, proffer, outreach
+*synonyms*: reach out, hold out, extend, outstretch, proffer, outreach
 
 > *verb*
 > - (of something soft or elastic) be made or be capable of being made longer or wider without tearing or breaking.
 my sweater stretched in the wash
-synonyms: be elastic, be stretchy, be tensile
+*synonyms*: be elastic, be stretchy, be tensile
