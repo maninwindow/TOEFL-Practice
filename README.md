@@ -8,7 +8,7 @@
 ===============
 
 >  **Despot**
-> - a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.
+> - a ruler or other person who holds absolute power, typically one who exercises it in a **cruel** or **oppressive** way.
 
 ===============
 
@@ -29,11 +29,18 @@ a chauffeur-driven stretch
 my sweater stretched in the wash.
 *synonyms*: be elastic, be stretchy, be tensile
 > - straighten or extend one's body or a part of one's body to its full length, typically so as to tighten one's muscles or in order to reach something.
-the cat yawned and stretched
-synonyms: extend, straighten (out); lie down, recline, lean back, be recumbent, sprawl, lounge, loll
+the cat yawned and stretched.
+*synonyms*: extend, straighten (out); lie down, recline, lean back, be recumbent, sprawl, lounge, loll
 > - extend or spread over an area or period of time.
-the beach stretches for over four miles
-synonyms: extend, spread, continue
+the beach stretches for over four miles.
+*synonyms*: extend, spread, continue
+
 ===============
 
+> Distinct
+
+> *adjective*
+> - recognizably different in nature from something else of a similar type.
+the patterns of spoken language are distinct from those of writing.
+*synonyms*: clear, well-defined, unmistakable, easily distinguishable, recognizable, visible, obvious,
 > ****
