@@ -13,7 +13,8 @@
 ===============
 
 > **Stretch**
->   *noun*
+
+> *noun*
 > - an act of stretching one's limbs or body.
 I got up and had a stretch
 synonyms: reach out, hold out, extend, outstretch, proffer, outreach
