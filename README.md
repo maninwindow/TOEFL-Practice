@@ -10,3 +10,10 @@
 >  **Despot**
 > - a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.
 
+===============
+
+> **Stretch**
+>   *noun*
+> - an act of stretching one's limbs or body.
+I got up and had a stretch
+synonyms: reach out, hold out, extend, outstretch, proffer, outreach
