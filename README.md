@@ -43,4 +43,5 @@ the beach stretches for over four miles.
 > - recognizably different in nature from something else of a similar type.
 the patterns of spoken language are distinct from those of writing.
 *synonyms*: clear, well-defined, unmistakable, easily distinguishable, recognizable, visible, obvious,
-> ****
+> 
+
