@@ -16,10 +16,24 @@
 
 > *noun*
 > - an act of stretching one's limbs or body.
-I got up and had a stretch
+I got up and had a stretch.
 *synonyms*: reach out, hold out, extend, outstretch, proffer, outreach
+> - a continuous area or expanse of land or water.
+a treacherous stretch of road
+synonyms: expanse, area, tract, belt, sweep, extent
+ > - a stretch limo.
+a chauffeur-driven stretch
 
 > *verb*
 > - (of something soft or elastic) be made or be capable of being made longer or wider without tearing or breaking.
-my sweater stretched in the wash
+my sweater stretched in the wash.
 *synonyms*: be elastic, be stretchy, be tensile
+> - straighten or extend one's body or a part of one's body to its full length, typically so as to tighten one's muscles or in order to reach something.
+the cat yawned and stretched
+synonyms: extend, straighten (out); lie down, recline, lean back, be recumbent, sprawl, lounge, loll
+> - extend or spread over an area or period of time.
+the beach stretches for over four miles
+synonyms: extend, spread, continue
+===============
+
+> ****
