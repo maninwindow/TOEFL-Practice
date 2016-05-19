@@ -19,7 +19,7 @@
 I got up and had a stretch.
 *synonyms*: reach out, hold out, extend, outstretch, proffer, outreach
 > - a continuous area or expanse of land or water.
-a treacherous stretch of road
+a 'treacherous' stretch of road
 synonyms: expanse, area, tract, belt, sweep, extent
  > - a stretch limo.
 a chauffeur-driven stretch
@@ -59,7 +59,7 @@ my father was very strict.
 > **Adherence**
 
 > *noun*
-> - bond, adhesiveness, adhesion
+> - bond, 'adhesiveness', 'adhesion'
 attachment, adhesion
 
 ===============
@@ -68,4 +68,4 @@ attachment, adhesion
 
 > *noun*
 > - government or the holding of power by people selected on the basis of their ability.
-For the first time in the 20th century, Britain's agonisingly slow progress towards meritocracy went into reverse.
+For the first time in the 20th century, Britain's 'agonisingly' slow progress towards 'meritocracy' went into reverse.
