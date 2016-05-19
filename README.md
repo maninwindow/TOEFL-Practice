@@ -69,3 +69,11 @@ attachment, adhesion
 > *noun*
 > - government or the holding of power by people selected on the basis of their ability.
 For the first time in the 20th century, Britain's `agonisingly` slow progress towards `meritocracy` went into reverse.
+
+==============
+
+> **investigate**
+> *verb*
+> - carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.
+police are investigating the `alleged` beating
+*synonyms*: inquire into, look into, go into, probe, explore, scrutinize, conduct an investigation into, m
