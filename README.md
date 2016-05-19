@@ -73,6 +73,7 @@ For the first time in the 20th century, Britain's `agonisingly` slow progress to
 ==============
 
 > **investigate**
+
 > *verb*
 > - carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.
 police are investigating the `alleged` beating
