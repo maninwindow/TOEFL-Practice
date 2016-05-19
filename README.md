@@ -78,3 +78,57 @@ For the first time in the 20th century, Britain's `agonisingly` slow progress to
 > - carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.
 police are investigating the `alleged` beating
 *synonyms*: inquire into, look into, go into, probe, explore, scrutinize, conduct an investigation into, m
+
+==============
+
+> **drought**
+
+> *noun*
+> - a prolonged period of abnormally low rainfall; a shortage of water resulting from this.
+Chinese officials say cloud seeding has helped to relieve severe droughts and water shortages in cities.
+*synonyms*: dry spell, lack of rain, shortage of water
+
+==============
+
+> **colony**
+
+> *noun*
+> - a country or area under the full or partial political control of another country, typically a distant one, and occupied by settlers from that country.
+Imperial self-assertion required first of all that Italy seize full control of the colonies it already possessed.
+*synonyms*: settlement, dependency, protectorate, satellite, territory, outpost, province
+a group of people of one nationality or ethnic group living in a foreign city or country.
+the British colony in New York
+a community of animals or plants of one kind living close together or forming a physically connected structure.
+a colony of seals
+
+==============
+
+> **scum**
+
+> *noun*
+> - a layer of dirt or froth on the surface of a liquid.
+green scum found on stagnant pools
+*synonyms*: film, layer, covering, froth, filth, dross, dirt
+
+> *verb*
+> - (of a liquid) become covered with a layer of dirt or froth.
+the lagoon scummed over
+
+==============
+
+> **acidic**
+
+> *adjective*
+> - having the properties of an acid, or containing acid; having a pH below 7.
+When this compound is dissolved in water, an acidic solution of hydrogen cyanide, also known as prussic acid, is produced.
+sharp-tasting or sour.
+acidic wine
+of or relating to acid rock or acid house music.
+These new acidic ventures sampled from different genres and emerged as a bizarre Teutonic glam.
+
+==============
+
+> ****
+
+> **
+> - 
