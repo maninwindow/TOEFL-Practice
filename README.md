@@ -198,6 +198,35 @@ tributes exacted from the Slavic peoples
 
 ==============
 
+> **craftsman**
+
+> *noun*
+> - a person who is skilled in a particular craft.
+This is often due to the scarcity of skilled builders, craftsmen and gardeners.
+*synonyms*: artisan, artist, skilled worker, expert, master, artificer
+
+==============
+
+> **arose**
+
+> *verb*
+> - (of a problem, opportunity, or situation) emerge; become apparent.
+new difficulties had arisen
+synonyms: come to light, become apparent, appear, emerge, crop up, turn up, surface, spring up, occur, befall, come to pass
+> - get or stand up.
+he arose at 9:30 and went out for a walk
+*synonyms*: stand up, rise, get to one's feet, get up
+
+==============
+
+> **ennoble**
+
+> *verb*
+> - give (someone) a noble rank or title.
+When he was ennobled in 1964, someone remarked he should take the title Lord Corridor of Power.
+
+==============
+
 > ****
 
 > **
