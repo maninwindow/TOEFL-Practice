@@ -227,7 +227,81 @@ When he was ennobled in 1964, someone remarked he should take the title Lord Cor
 
 ==============
 
+> **emphasize**
+
+> *verb*
+> - give special importance or prominence to (something) in speaking or writing.
+he jabbed a finger into the tabletop to emphasize his point
+
+==============
+
+> **prominence**
+
+> *noun*
+> - the state of being important or famous.
+she came to prominence as an artist in the 1960s
+*synonyms*: fame, celebrity, eminence, preeminence, importance, distinction, greatness, note, notability, prestige, stature, standing, position, rank; good coverage, importance, precedence, weight, a high profile, top billing
+> - the fact or condition of standing out from something by physically projecting or being particularly noticeable.
+radiographs showed enlargement of the right heart with prominence of the pulmonary outflow tract
+
+
+==============
+
+> **trait**
+
+> *noun*
+> - a distinguishing quality or characteristic, typically one belonging to a person.
+he was a letter-of-the-law man, a common trait among coaches
+*synonyms*: characteristic, attribute, feature, quality, property, habit, custom, mannerism, idiosyncras
+
+
+==============
+
+> **elegant**
+
+> *adjective*
+> - pleasingly graceful and stylish in appearance or manner.
+she will look elegant in black
+*synonyms*: stylish, graceful, tasteful, sophisticated, classic, chic, smart, fashionable, modish.
+
+
+==============
+
 > ****
 
 > **
 > - 
+
+==============
+
+> ****
+
+> **
+> - 
+
+
+==============
+
+> ****
+
+> **
+> - 
+
+
+==============
+
+> ****
+
+> **
+> - 
+
+
+==============
+
+> ****
+
+> **
+> - 
+
+
+
