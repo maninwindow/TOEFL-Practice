@@ -267,10 +267,86 @@ she will look elegant in black
 
 ==============
 
-> ****
+> **opulence**
 
-> **
-> - 
+> *noun*
+> - great wealth or luxuriousness.
+rooms of spectacular opulence
+*synonyms*: luxuriousness, sumptuousness, lavishness, richness, luxury, luxuriance, splendor, magn
+
+==============
+
+> **sturdy**
+
+> *adjective*
+> - adjective
+(of a person or their body) strongly and solidly built.
+he had a sturdy, muscular physique
+*synonyms*: strapping, well-built, muscular, athletic, strong, hefty, brawny, powerful, solid, bulky, burly
+
+
+==============
+
+> **nook**
+
+> *noun*
+> - a corner or recess, especially one offering seclusion or security.
+the nook beside the fire
+*synonyms*: recess, corner, alcove, niche, cranny, bay, inglenook, cavity, cubbyhole, pigeonhole, op
+
+
+==============
+
+> **seclusion**
+
+> *noun*
+> - the state of being private and away from other people.
+they enjoyed ten days of peace and seclusion
+synonyms: isolation, solitude, retreat, privacy, retirement, withdrawal, concealment, hiding
+
+
+==============
+
+> **recess**
+
+> *noun*
+> - a small space created by building part of a wall further back from the rest.
+a table set into a recess
+> - a period of time when the proceedings of a parliament, committee, court of law, or other official body are temporarily suspended.
+talks resumed after a month's recess
+
+> *verb*
+> - attach (a fixture) by setting it back into the wall or surface to which it is fixed.
+recessed ceiling lights
+(of formal proceedings) be temporarily suspended.
+the talks recessed at 2:15
+
+==============
+
+> **royalty**
+
+> *noun*
+> - people of royal blood or status.
+diplomats, heads of state, and royalty shared tables at the banquet
+> - a sum of money paid to a patentee for the use of a patent or to an author or composer for each copy of a book sold or for each public performance of a work.
+Under the 1909 copyright law and its progeny, a song's composers collect royalties for a ‘public performance’ like the radio broadcast of a CD.
+> - a royal right (now especially over minerals) granted by a sovereign to an individual or corporation.
+The unstable government has been reliant on Australian troops, police and economic aid, a situation ruthlessly exploited by Canberra in the dispute over royalties and sovereignty.
+
+==============
+
+> **ordinary**
+
+> *adjective*
+> - with no special or distinctive features; normal.
+he sets out to depict ordinary people
+synonyms: usual, normal, standard, typical, common, customary, habitual, everyday, regular, routine, day-to-day
+> - (especially of a judge or bishop) exercising authority by virtue of office and not by delegation.
+Should this be the case, an ordinary judge is not allowed to disregard the national legislation but is bound to refer it to the Constitutional Court.
+
+> *noun*
+> - what is commonplace or standard.
+their clichés were vested with enough emotion to elevate them above the ordinary
 
 ==============
 
@@ -278,30 +354,3 @@ she will look elegant in black
 
 > **
 > - 
-
-
-==============
-
-> ****
-
-> **
-> - 
-
-
-==============
-
-> ****
-
-> **
-> - 
-
-
-==============
-
-> ****
-
-> **
-> - 
-
-
-
