@@ -373,18 +373,7 @@ the new baby thrived
 tree-lined avenues surround the hotel
 > - a way of approaching a problem or making progress toward something.
 three possible avenues of research suggested themselves
-synonyms: line, path, method, approach
-
-==============
-
-> **Prominence**
-
-> *noun*
-> - the state of being important or famous.
-she came to prominence as an artist in the 1960s
-synonyms: fame, celebrity, eminence, preeminence, importance, distinction, greatness, note, notability, prestige, stature, standing, position, rank; good coverage, importance, precedence, weight, a high profile, top billing
-> - the fact or condition of standing out from something by physically projecting or being particularly noticeable.
-radiographs showed enlargement of the right heart with prominence of the pulmonary outflow tract
+synonyms: line, path, method, approachoral
 
 ==============
 
