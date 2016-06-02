@@ -374,38 +374,3 @@ tree-lined avenues surround the hotel
 > - a way of approaching a problem or making progress toward something.
 three possible avenues of research suggested themselves
 synonyms: line, path, method, approachoral
-
-==============
-
-> ****
-
-> **
-> - 
-
-==============
-
-> ****
-
-> **
-> - 
-
-==============
-
-> ****
-
-> **
-> - 
-
-==============
-
-> ****
-
-> **
-> - 
-
-==============
-
-> ****
-
-> **
-> - 
