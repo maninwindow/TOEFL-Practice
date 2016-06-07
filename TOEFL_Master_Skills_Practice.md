@@ -61,3 +61,6 @@
 > - Abound  : 充满，富于，丰富，大量存在
 > - Morally : 道德上
 > - Prominence : 突出，重要
+> - Substitution: 置换，取代，代换，替代
+> - Segregation: 隔离，分离
+> - Inversion: 倒置，颠倒，倒装
