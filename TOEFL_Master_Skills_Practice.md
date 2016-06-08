@@ -64,3 +64,17 @@
 > - Substitution: 置换，取代，代换，替代
 > - Segregation: 隔离，分离
 > - Inversion: 倒置，颠倒，倒装
+> - Vowed: 发誓，誓言
+> - Bloodshed: 流血， 杀人
+> - Rigid: 死板的，严格的
+> - Infer: 推断，推论
+> - Conspiracy: 阴谋，共谋，同谋
+> - Condomn: 指责，宣判，判处，判刑
+> - Rebellion: 叛乱，反叛，反抗
+> - Fraternity: 兄弟会，友爱
+> - Ratify: 正式批准，认可，核准
+> - Rally: 召集，集合，同声，反弹
+> - Enact: 扮演，制定
+> - Flee: 逃跑
+> - Rampant: 
+> - Chop: 砍
