@@ -135,3 +135,4 @@
 > - Parasite: 寄生虫
 > - Deprive: 剥夺，夺去
 > - Nutrient: 营养素，营养物
+> - Draine: 下水道
